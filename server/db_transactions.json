@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "name": "Salary from Eucaps",
+      "type": "income",
+      "amount": 122220,
+      "id": 1
+    },
+    {
+      "name": "Gift",
+      "type": "expense",
+      "amount": 5000,
+      "id": 2
+    }
+  ]
+}
